@@ -1,2 +1,4 @@
-# Redes_Neuronales
-Redes Neuronales. ESIME Culhuacán
+# Redes Neuronales
+Redes Neuronales.
+ESIME Culhuacán.
+Profesor José Portillo Portillo.
